@@ -1,0 +1,16 @@
+# 插件源清單
+#
+# 這是 deepseekbase 插件市場索引的數據源。
+# 生成器讀這個文件 → 拉取 npm/GitHub 元數據 → 輸出 index.json
+#
+# 格式：一行一個，空行和 # 開頭的行忽略
+#   npm 套件名       例如：dsh-pet
+#   Git 倉庫 URL     例如：https://github.com/owner/repo
+#
+# 提交方式：提 PR 加一行。不會 GitHub？看 CONTRIBUTING.md，我們幫你提交。
+#
+# ── 我們自己的插件 ──
+https://github.com/moldkey/dsh-deepseekbase
+
+# ── 以下由生成器自動同步（勿手動編輯此段以下）──
+# AUTO-SYNCED-FROM deepseekbase.com/data/plugins.json
